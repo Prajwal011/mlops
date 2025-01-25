@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/prajwal/Desktop/MLOPS/research/mlruns/0/087ad157f52f42b0a410dc643ef936c4/artifacts
+end_time: 1737735813806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087ad157f52f42b0a410dc643ef936c4
+run_name: enthused-mule-161
+run_uuid: 087ad157f52f42b0a410dc643ef936c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737735792240
+status: 3
+tags: []
+user_id: prajwal
