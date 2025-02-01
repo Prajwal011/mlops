@@ -17,3 +17,7 @@ mlflow_info:
     tracking_username: dagshub_username
     tracking_password: dagshub_password
 ```
+6. Explore ecr,ecs,ec2 instance
+7. Docker image upload
+8. Github workflow(github actions).
+   
